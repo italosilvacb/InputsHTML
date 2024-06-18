@@ -1,0 +1,16 @@
+<html>
+	<head>
+	<title>Chuchu</title>
+	<meta charset="utf-8">
+	</head>
+
+	<body>
+		<h1>Pastel</h1>
+		<h2>Sobre nós</h2>
+		<h3>Fundadores</h3>
+		<h4>José</h4>
+		<h5>Maria</h5>
+		<p>Onde um pastel é um pastel</p>
+
+	</body>
+</html>
